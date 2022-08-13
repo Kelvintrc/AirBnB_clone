@@ -4,6 +4,11 @@ body{
 	position: relative;
 	min-height: 100vh;
 	font-size: 14px;
-	font-color: #484848
+	font-color: #484848;
 	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container{
+	max-width: 1000px;
+	margin: 30px auto;
 }
